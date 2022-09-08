@@ -1,2 +1,2 @@
 # projeto-social
- Um projeto de um site interativo com redes socias
+ Um projeto de um site interativo e responsivo com redes socias
